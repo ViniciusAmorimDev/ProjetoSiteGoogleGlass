@@ -1,2 +1,2 @@
 # Projeto Site Google Glass
- Repositório da primeira landing page criada.
+ Repositório do primeiro site criado.
